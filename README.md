@@ -149,3 +149,20 @@ Based on feature importance analysis, the following features are critical indica
 ### Explore Advanced Feature Engineering and Model Optimization
 - **Action:** Investigate new features and conduct hyperparameter tuning.
 - **Rationale:** Continuous improvement can enhance model accuracy and robustness.
+  
+
+## Dependencies
+- **Python 3.7 or higher**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **Scikit-learn**
+- **Imbalanced-learn**
+- **XGBoost**
+- **Jupyter Notebook**
+
+## Author
+Hafida Belayd
+
+[LinkedIn](https://www.linkedin.com/in/hafida-belayd/)
