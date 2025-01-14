@@ -8,7 +8,6 @@ This project aims to develop a predictive model using machine learning technique
 ## Table of Contents
 - [Background](#background)
 - [Data Overview](#data-overview)
-- [Project Structure](#project-structure)
 - [Data Exploration and Preprocessing](#data-exploration-and-preprocessing)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Model Development](#model-development)
@@ -39,13 +38,6 @@ The dataset `machine_downtime.csv` contains 2,500 records of operational data fo
 - **Cutting(kN):** Cutting force of the tool.
 - **Downtime:** Indicator of whether the machine was down (Machine_Failure) or not (No_Machine_Failure) on the given day.
 
-## Project Structure
-- `data/`: Contains the `machine_downtime.csv` dataset.
-- `notebooks/`: Jupyter notebooks for data exploration, model development, and evaluation.
-- `models/`: Saved models and their parameters.
-- `reports/`: Generated plots and figures from the analysis.
-- `README.md`: Project overview and instructions.
-- `requirements.txt`: List of required Python packages.
 
 ## Data Exploration and Preprocessing
 ### Data Loading and Overview
